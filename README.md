@@ -11,4 +11,5 @@ At JOB-A-THON every enthusiast will get the opportunity to showcase their skills
 **RANK:** 29 out of 7677
 
 **SCORE:** 0.7214379823
+
 ![rank](rank.png)
