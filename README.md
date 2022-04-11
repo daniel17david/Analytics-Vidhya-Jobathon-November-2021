@@ -60,4 +60,4 @@ Quarterly Rating - Quarterly rating of the employee: 1,2,3,4 (higher is better)
 Emp_ID - Unique Id for the employees
 
 ## Evaluation Metric:
-The evaluation metric for this competition is macro f1_score.
+The evaluation metric for this competition is f1_score.
